@@ -1,0 +1,33 @@
+.create-post-cont{
+    width: 100vw;
+}
+.create-post-cont form{
+    width: 50vw;
+    border: 1px solid;
+    padding: 30px;
+    margin: 40px auto;
+}
+.input-file{
+    border: 1px solid #ccc;
+    padding: 4px;
+}
+.author-locat{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+}
+.author-locat input{
+    width: 40%;
+    padding: 4px;
+}
+.desc-cont input{
+    width: 100%;
+    padding: 4px;
+}
+.submit-btn-cont{
+    text-align: center;
+}
+.submit-btn-cont button{
+    margin: 10px 0;
+    padding: 4px 40px;
+}

@@ -1,0 +1,25 @@
+.post-card{
+        width: 500px;
+    margin: 14px auto;
+    border: 1px solid #ccc;
+    /* padding: 8px; */
+}
+.name-locat-elipse{
+        display: flex;
+    justify-content: space-between;
+}
+.main-post{
+    height: 300px;
+}
+.main-post img{
+    width: 100%;
+    height: 100%;
+}
+.like-share-date-cont{
+        display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.name-locat-elipse, .like-share-date-cont, .date, .likes, .desc{
+    padding: 5px;
+}
